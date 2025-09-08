@@ -63,4 +63,4 @@ Whiskers can play dead!
 ---
 
 ## 🧑‍💻 Author
-Maselaelo Glen Molele
+Maselaelo Glen
